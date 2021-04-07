@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "global": "^4.4.0",
+    "kill-port": "^1.6.1"
+  }
+}
